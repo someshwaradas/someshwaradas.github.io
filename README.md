@@ -1,1 +1,0 @@
-# someshwaradas.github.io
