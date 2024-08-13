@@ -1,3 +1,10 @@
 :root {
     
 }
+
+h1 {
+    font-weight: bold !important;
+    font-variant: small-caps;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #888888;
+}
